@@ -32,14 +32,14 @@ export default function About() {
       <p>
         My passion for harnessing technology to address complex challenges fuels
         my dedication to delivering innovative and effective solutions. Whether
-        it's crafting intuitive user interfaces or optimizing the performance of
-        web and mobile applications, I thrive on creating impactful and seamless
-        experiences. If you are looking to embark on your next project and
-        seeking a software developer who not only possesses technical
-        proficiency but is also deeply passionate about the transformative
-        potential of technology, I invite you to connect with me. Let's explore
-        how my skills and enthusiasm can contribute to bringing your ideas to
-        life and achieving success in your endeavors.
+        it&apos;s crafting intuitive user interfaces or optimizing the
+        performance of web and mobile applications, I thrive on creating
+        impactful and seamless experiences. If you are looking to embark on your
+        next project and seeking a software developer who not only possesses
+        technical proficiency but is also deeply passionate about the
+        transformative potential of technology, I invite you to connect with me.
+        Let&apos;s explore how my skills and enthusiasm can contribute to
+        bringing your ideas to life and achieving success in your endeavors.
       </p>
     </motion.section>
   );
