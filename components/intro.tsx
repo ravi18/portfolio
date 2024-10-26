@@ -41,7 +41,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <h1 className="mb-4 mt-4 px-4 text-2xl font-medium sm:text-4xl">
-          Hi I&apos;m
+          Hi I'm
           <span className="mb-5 mt-4 px-4 text-2xl font-bold sm:text-4xl">
             Ravi Pratap Singh
           </span>
